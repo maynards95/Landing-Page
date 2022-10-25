@@ -1,0 +1,50 @@
+.header-logo {
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.header {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 130px;
+    padding-right: 130px;
+}
+
+div {
+    display: flex;
+}
+
+.header-title {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.img-placeholder {
+    padding: 100px 150px;
+    background-color: lightgray;
+}
+
+.header-text {
+    display:flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.header-description {
+    font-size: 12px;
+}
+
+ul {
+    font-size: 12px;
+    display: flex;
+    gap: 10px;
+    list-style-type: none;
+    font-weight: 300;
+}
