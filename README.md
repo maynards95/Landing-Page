@@ -1,2 +1,2 @@
 Odin Landing Page
-[Link](landing-page-beige-one.vercel.app)
+[Link](https://landing-page-beige-one.vercel.app/)
